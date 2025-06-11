@@ -1,0 +1,30 @@
+INFO:root:\U0001f4e1 Network Status Report — 2025-06-11 03:32 PM
+
+\u2705 Router (192.168.68.1) is reachable (33.1 ms)
+\u2705 Internet (172.248.13.132) is reachable (8.4 ms)
+\u2705 JamesPC (192.168.68.113) is reachable (0.1 ms)
+\u2705 JamesMAC (192.168.68.112) is reachable (66.1 ms)
+\u2705 JasmineMAC (192.168.68.100) is reachable (95.8 ms)
+\u2705 RokuExpress (192.168.68.103) is reachable (17.1 ms)
+\u2705 RingDoorbell (192.168.68.106) is reachable (1652.8 ms)
+\u2705 JamesPhone (192.168.68.111) is reachable (71.5 ms)
+
+\U0001f310 Public IP: 172.248.13.132
+
+Traceroute:
+\u274c Traceroute failed: 'NoneType' object is not iterable
+INFO:root:\U0001f4e1 Network Status Report — 2025-06-11 03:33 PM
+
+\u2705 Router (192.168.68.1) is reachable (2.1 ms)
+\u2705 Internet (172.248.13.132) is reachable (1.8 ms)
+\u2705 JamesPC (192.168.68.113) is reachable (0.3 ms)
+\u2705 JamesMAC (192.168.68.112) is reachable (453.4 ms)
+\u2705 JasmineMAC (192.168.68.100) is reachable (30.2 ms)
+\u2705 RokuExpress (192.168.68.103) is reachable (6.0 ms)
+\u2705 RingDoorbell (192.168.68.106) is reachable (340.2 ms)
+\u2705 JamesPhone (192.168.68.111) is reachable (28.2 ms)
+
+\U0001f310 Public IP: 172.248.13.132
+
+Traceroute:
+192.168.68.113 \u279d 192.168.68.113 - 0.01s
